@@ -11,6 +11,7 @@
   --boxshad2: rgba(0,0,0,0.19);
   --boxbor: rgba(46, 159, 187, 0.644);
   --navcol: antiquewhite;
+  --mb: rgb(240, 215, 183);
   --navhov: antiquewhite;
   --viscol: rgba(0, 190, 218, 0.75);
   --boxhovbor: rgb(0, 255, 242);
@@ -37,12 +38,10 @@
   --boxshad2: rgba(255, 255, 255, 0.19);
   --boxbor: #fc85af8c;
   --navcol: #393E46;
+  --mb: #1f2838;
   --navhov: #A3F7BF;
   --viscol: #8a2cdcdc;
-  /* --viscol: #17B794; */
-  /* --boxhovbor: rgba(80, 25, 126, 0.849);
-   */
-   --boxhovbor: rgba(196, 88, 204, 0.664);
+  --boxhovbor: rgba(196, 88, 204, 0.664);
   --botnavhov: #333456;
   --topnavhov: #ccfcf8;
   /* --wallc: #8a2cdcda;
@@ -246,7 +245,7 @@ nav ul li{
   display: flex;
   cursor:  default;
   justify-content: space-around;
-  margin-top: 1.5rem;
+  margin-top: 0.8rem;
   align-self: center;
   font-size: 20px;
   background-color: var(--navcol);
@@ -259,7 +258,7 @@ nav ul li{
   display: flex;
   width: 15rem;
   vertical-align: middle;
-  height: 60px;
+  height: 74px;
   
   color: var(--textc);
   text-align: center;
@@ -270,98 +269,10 @@ nav ul li{
   transition: transform 100ms;
   box-shadow: 0 3px 5px 0 var(--boxshad1), 0 3px 5px 0 var(--boxshad2);
 }
-.botlia0 {
-  display: block;
-  cursor:default;
-  color: var(--textc);
-  text-align: center;
-  margin: 0 1.4rem;
-  font-size: 20px;
-  padding: 28px 60px;
-  text-decoration: none;
-}
-
-.botlia1 {
-  display: block;
-  cursor:default;
-  color: var(--textc);
-  text-align: center;
-  margin: 0 1.4rem;
-  font-size: 20px;
-  padding: 28px 36px;
-  text-decoration: none;
-}
-.botlia2 {
-  position:absolute;
-  cursor:default;
-  right: 10px;
-  display: block;
-  color: var(--textc);
-  text-align: center;
-  margin: 0 1.5rem;
-  font-size: 20px;
-  padding: 28px 77px;
-  text-decoration: none;
-}
-.botlia3 {
-  position:absolute;
-  cursor:default;
-  right: 18.5rem;
-  display: block;
-  color: var(--textc);
-  text-align: center;
-  margin: 0 1.7rem;
-  font-size: 20px;
-  padding: 28px 105px;
-  text-decoration: none;
-}
-.visualizebtn{
-  position:absolute;
-  cursor:default;
-  right: 37rem;
-  display: block;
-  color: var(--textc);
-  text-align: center;
-  margin: 0 1.5rem;
-  font-size: 20px;
-  padding: 28px 65px;
-  text-decoration: none;
-}
 .nabar p, .anav ul li a{
   cursor:default;
 }
+.algo{
+  background-color: var(--mb);
+}
 /* Change the link color to #111 (black) on hover */
-.botlia0:hover{
-  background-color: var(--botnavhov);
-  
-  transform: translateY(-1px);
-  transition: transform 100ms;
-  box-shadow: 0 3px 5px 0 var(--boxshad1), 0 3px 5px 0 var(--boxshad2);
-  
-}
-.botlia1:hover{
-  background-color: var(--botnavhov);
-  transform: translateY(-1px);
-  transition: transform 100ms;
-  box-shadow: 0 3px 5px 0 var(--boxshad1), 0 3px 5px 0 var(--boxshad2);
-}
-.botlia2:hover{
-  background-color: var(--botnavhov);
-  
-  transform: translateY(-1px);
-  transition: transform 100ms;
-  box-shadow: 0 3px 5px 0 var(--boxshad1), 0 3px 5px 0 var(--boxshad2);
-}
-.botlia3:hover{
-  background-color: var(--botnavhov);
-  
-  transform: translateY(-1px);
-  transition: transform 100ms;
-  box-shadow: 0 3px 5px 0 var(--boxshad1), 0 3px 5px 0 var(--boxshad2);
-}
-.visualizebtn:hover{
-  background-color: var(--botnavhov);
-  transform: translateY(-1px);
-  transition: transform 100ms;
-  box-shadow: 0 3px 5px 0 var(--boxshad1), 0 3px 5px 0 var(--boxshad2);
-}
