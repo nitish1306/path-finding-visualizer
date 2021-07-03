@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="shortcut icon" href="anim.ico" type="image/x-icon">
+    <title>Graph Visualizer</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body class="b">
+    <div>
+      <nav class="anav">
+        <div class="nabar">
+            <p>Path Finding Visualizer</p>
+        </div>
+        <ul>
+            <li><a href="/" class="active at">Home</a></li>
+            <li><a href="https://www.linkedin.com/in/nitish-kumar-87631a189" class="at">About</a></li>
+        </ul>
+        <img src="./moon.png" id="icon"></img>
+      </nav>
+    </div>
+    <div id="root"></div>
+    <script src="../src/index.js" type="text/jsx"></script>
+    <script>
+      var icon = document.getElementById("icon");
+      icon.onclick = function(){
+        document.body.classList.toggle("dark");
+        if(document.body.classList.contains("dark")){
+          icon.src="./sun.png";
+        }else{
+          icon.src="./moon.png"
+        }
+      }
+    </script>
+  </body>
+</html>
