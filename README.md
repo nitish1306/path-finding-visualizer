@@ -18,6 +18,9 @@ This Algorithm simply explores the node which is closer to the End point. <br />
 This Algorithm's Heuristic (or logic) is the sum/cost so far from starting node plus the distance to end point, this heuristic makes the algorithm work "smartly".<br />
 **Guarantees Shortest Path**. <br />
 
+## Home Page:
+<img src="https://user-images.githubusercontent.com/72650394/125026126-917a4d00-e0a1-11eb-8499-4ddd976bfa73.png" width="70%" height="70%">
+
 
 ## Features:
 * Can Freely move the start and end point.
