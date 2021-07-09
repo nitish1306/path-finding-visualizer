@@ -39,6 +39,7 @@ This Algorithm's Heuristic (or logic) is the sum/cost so far from starting node 
 ![p_dark](https://user-images.githubusercontent.com/72650394/125029841-d903d780-e0a7-11eb-897a-23bfa137eef7.gif)
 
 ## All buttons:
+![image](https://user-images.githubusercontent.com/72650394/125030636-0bfa9b00-e0a9-11eb-8d09-4b785533eb4d.png)
 * Choose whether to include Diagonal moves or no.
 * Toggle the speed of animation.
 * 3 Main Search algorithms: Dijkstra, Greedy-Best First search and A-Star algorithm.
