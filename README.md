@@ -23,11 +23,20 @@ This Algorithm's Heuristic (or logic) is the sum/cost so far from starting node 
 
 
 ## Features:
-* Can Freely move the start and end point.
-* Can Add/remove Walls either by click or press-dragging the mouse.
-* Can adjust speed of animation.
-* Can change the directions of exploring nodes.
-*	Dark theme for all Night- Owls out there!
+#### >> Can Freely move the start and end point.<br />
+![p_start](https://user-images.githubusercontent.com/72650394/125029804-cdb0ac00-e0a7-11eb-8a08-38e616e226af.gif)
+<br />
+#### >> Can Add/remove Walls either by click or press-dragging the mouse.<br />
+![p_wall](https://user-images.githubusercontent.com/72650394/125029819-d1443300-e0a7-11eb-8252-285e3ba1e9ee.gif)
+<br />
+#### >> Can adjust speed of animation.<br />
+![p_speed](https://user-images.githubusercontent.com/72650394/125029783-c8536180-e0a7-11eb-8da8-9204282b52e5.gif)
+<br />
+#### >> Can change the directions of exploring nodes.<br />
+![p_diag](https://user-images.githubusercontent.com/72650394/125029800-cb4e5200-e0a7-11eb-9576-2d0f63f948be.gif)
+<br />
+#### >> Dark theme for all Night- Owls out there! Pretty Cool isnt it? Well you definitely should check out the animations as well!<br />
+![p_dark](https://user-images.githubusercontent.com/72650394/125029841-d903d780-e0a7-11eb-897a-23bfa137eef7.gif)
 
 ## All buttons:
 * Choose whether to include Diagonal moves or no.
