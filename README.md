@@ -22,7 +22,7 @@ This Algorithm's Heuristic (or logic) is the sum/cost so far from starting node 
 **Guarantees Shortest Path**. <br />
 
 ## Home Page:
-<img src="https://user-images.githubusercontent.com/72650394/125026126-917a4d00-e0a1-11eb-8499-4ddd976bfa73.png" width="70%" height="70%">
+<img src="https://user-images.githubusercontent.com/72650394/125026126-917a4d00-e0a1-11eb-8499-4ddd976bfa73.png" width="90%" height="90%">
 
 <br />
 
