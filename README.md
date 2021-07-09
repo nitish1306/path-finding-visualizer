@@ -4,6 +4,9 @@ This Site is visualizes and solves different mazes using different algorithm for
 Observe and learn better on how each algorithm functions!<br /><br />
 Check out the website: https://nitish1306.github.io/path-finding-visualizer/.
 <br />
+<br />
+Scroll to end for a Preview!!
+<br />
 
 ## How each algorithm works?
 ### Dijkstra's Algorithm: <br />
@@ -21,6 +24,7 @@ This Algorithm's Heuristic (or logic) is the sum/cost so far from starting node 
 ## Home Page:
 <img src="https://user-images.githubusercontent.com/72650394/125026126-917a4d00-e0a1-11eb-8499-4ddd976bfa73.png" width="70%" height="70%">
 
+<br />
 
 ## Features:
 #### >> Can Freely move the start and end point.<br />
@@ -38,6 +42,9 @@ This Algorithm's Heuristic (or logic) is the sum/cost so far from starting node 
 #### >> Dark theme for all Night- Owls out there! Pretty Cool isnt it? Well you definitely should check out the animations as well!<br />
 ![p_dark](https://user-images.githubusercontent.com/72650394/125029841-d903d780-e0a7-11eb-897a-23bfa137eef7.gif)
 
+<br />
+<br />
+
 ## All buttons:
 ![image](https://user-images.githubusercontent.com/72650394/125030636-0bfa9b00-e0a9-11eb-8d09-4b785533eb4d.png)
 * Choose whether to include Diagonal moves or no.
@@ -45,6 +52,11 @@ This Algorithm's Heuristic (or logic) is the sum/cost so far from starting node 
 * 3 Main Search algorithms: Dijkstra, Greedy-Best First search and A-Star algorithm.
 * Reset Board: Resets whole board to initial state.
 * Clear: Clears all colored nodes( Visited, Explored and Path Nodes).
+<br />
+
+## Preview (A-Star Algorithm -- Speed: Fast -- No Diagonal Moves):
+![p_trial](https://user-images.githubusercontent.com/72650394/125033461-f4bdac80-e0ac-11eb-9549-a94c823f1c64.gif)
+
 
 ## Upcoming Features:
 * Random Maze Generating Button.
@@ -53,4 +65,6 @@ This Algorithm's Heuristic (or logic) is the sum/cost so far from starting node 
 * More search algorithms.
 * Weighted Nodes feature.
 
-Click on **MOON** icon on top right for a surprise! ;)
+<br />
+
+Dont forget to check out **cool animations** in dark mode. ;)
