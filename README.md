@@ -1,6 +1,6 @@
 # Path Finding Visualizer!
 
-This Site is visualizes and solves different mazes using different algorithm for any given input state.<br />
+This Site visualizes and solves different mazes using different algorithm for any given input state.<br />
 Observe and learn better on how each algorithm functions!<br /><br />
 Check out the website: https://nitish1306.github.io/path-finding-visualizer/.
 <br />
